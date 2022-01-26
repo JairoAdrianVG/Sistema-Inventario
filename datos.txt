@@ -1,0 +1,5 @@
+Nombre: dsiujsmkasd
+DNI: 2323
+Telefono: 23123
+Usuario: asd
+Contraseña: 123
